@@ -4,5 +4,8 @@
 !*.ipt
 !*.iam
 !README.md
+!LICENSE
 !*/
+!*.stp
+*.stl
 OldVersions/
